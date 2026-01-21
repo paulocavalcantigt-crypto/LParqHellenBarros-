@@ -10,7 +10,7 @@ export function Manifesto() {
           {/* Image */}
           <div className="relative aspect-[4/5] lg:aspect-[3/4] overflow-hidden rounded-lg">
             <Image
-              src="/images/detail-architecture.jpg"
+              src="/images/detail.jpg"
               alt="Detalhe arquitetonico sofisticado"
               fill
               className="object-cover"
