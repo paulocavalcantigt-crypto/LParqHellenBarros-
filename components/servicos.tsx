@@ -7,19 +7,19 @@ const services = [
     icon: Home,
     title: "Arquitetura Residencial",
     description:
-      "Projetos que traduzem sua personalidade em cada ambiente. Do conceito a execucao, criamos lares que sao extensoes de quem voce e.",
+      "Projetos que traduzem sua personalidade em cada ambiente. Do conceito à execução, criamos lares que são extensões de quem você é.",
   },
   {
     icon: Palette,
     title: "Design de Interiores",
     description:
-      "Ambientes que encantam e funcionam. Selecionamos materiais, mobiliario e iluminacao para criar atmosferas unicas e acolhedoras.",
+      "Ambientes que encantam e funcionam. Selecionamos materiais, mobiliário e iluminação para criar atmosferas únicas e acolhedoras.",
   },
   {
     icon: Trees,
     title: "Paisagismo",
     description:
-      "Jardins que contam historias. Integramos natureza e arquitetura para criar espacos externos que inspiram e relaxam.",
+      "Jardins que contam histórias. Integramos natureza e arquitetura para criar espaços externos que inspiram e relaxam.",
   },
 ]
 
@@ -30,14 +30,14 @@ export function Servicos() {
         {/* Header */}
         <div className="text-center mb-16">
           <span className="text-sm text-[#D3B070] tracking-[0.2em] uppercase mb-4 block">
-            Nossos Servicos
+            Nossos Serviços
           </span>
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-normal text-[#501021] mb-4 text-balance italic">
             Transformamos sonhos em realidade
           </h2>
           <p className="text-[#7D1935] max-w-xl mx-auto">
-            Oferecemos solucoes completas em arquitetura e design, sempre com
-            foco na excelencia e na satisfacao de nossos clientes.
+            Oferecemos soluções completas em arquitetura e design, sempre com
+            foco na excelência e na satisfação de nossos clientes.
           </p>
         </div>
 

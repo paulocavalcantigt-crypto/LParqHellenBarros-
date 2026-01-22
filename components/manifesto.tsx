@@ -11,9 +11,9 @@ export function Manifesto() {
           <div className="relative aspect-[4/5] lg:aspect-[3/4] overflow-hidden rounded-lg">
             <Image
               src="/images/detail.jpg"
-              alt="Detalhe arquitetonico sofisticado"
+              alt="Hellen Barros - Arquiteta"
               fill
-              className="object-cover"
+              className="object-cover object-top"
             />
           </div>
 
@@ -23,23 +23,23 @@ export function Manifesto() {
               O Manifesto
             </span>
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-normal text-[#501021] mb-6 text-balance italic">
-              Muito alem de plantas e paredes.
+              Muito além de plantas e paredes.
             </h2>
             
             <div className="space-y-6 text-[#7D1935] leading-relaxed">
               <p>
-                Seu lar pode ser mais do que bonito. Ele pode ser inesquecivel. 
-                Nos projetamos espacos que contam sua historia — com sofisticacao, 
-                alma e proposito.
+                Seu lar pode ser mais do que bonito. Ele pode ser inesquecível. 
+                Nós projetamos espaços que contam sua história — com sofisticação, 
+                alma e propósito.
               </p>
               <p>
-                Cada traco que desenhamos carrega a essencia de quem voce e. 
-                Nao criamos apenas ambientes; criamos experiencias que transformam 
-                o cotidiano em momentos extraordinarios.
+                Cada traço que desenhamos carrega a essência de quem você é. 
+                Não criamos apenas ambientes; criamos experiências que transformam 
+                o cotidiano em momentos extraordinários.
               </p>
               <p>
-                Com mais de uma decada de dedicacao a arquitetura residencial, 
-                entendemos que um projeto bem-sucedido vai alem da estetica: 
+                Com mais de uma década de dedicação à arquitetura residencial, 
+                entendemos que um projeto bem-sucedido vai além da estética: 
                 ele precisa emocionar, funcionar e resistir ao tempo.
               </p>
             </div>
@@ -49,7 +49,7 @@ export function Manifesto() {
               variant="outline"
               className="mt-8 border-[#501021]/30 text-[#501021] hover:bg-[#501021]/5 bg-transparent"
             >
-              <Link href="#servicos">Conheca nossa essencia</Link>
+              <Link href="#servicos">Conheça nossa essência</Link>
             </Button>
           </div>
         </div>

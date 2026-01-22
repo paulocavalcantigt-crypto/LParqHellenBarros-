@@ -13,19 +13,19 @@ export function Footer() {
                 Hellen Barros
               </span>
               <span className="text-xs text-white/60 tracking-[0.2em] uppercase">
-                Arquitetura & Design
+                Arquitetura e Urbanismo
               </span>
             </Link>
             <p className="text-white/70 leading-relaxed max-w-md">
-              Transformamos sonhos em realidade atraves de projetos que unem
-              sofisticacao, funcionalidade e alma. Cada espaco que criamos e uma
-              extensao de quem voce e.
+              Transformamos sonhos em realidade através de projetos que unem
+              sofisticação, funcionalidade e alma. Cada espaço que criamos é uma
+              extensão de quem você é.
             </p>
           </div>
 
           {/* Navigation */}
           <div>
-            <h4 className="font-medium text-white mb-4">Navegacao</h4>
+            <h4 className="font-medium text-white mb-4">Navegação</h4>
             <nav className="flex flex-col gap-3">
               <Link
                 href="#manifesto"
@@ -37,13 +37,13 @@ export function Footer() {
                 href="#portfolio"
                 className="text-white/70 hover:text-[#D3B070] transition-colors"
               >
-                Portfolio
+                Portfólio
               </Link>
               <Link
                 href="#servicos"
                 className="text-white/70 hover:text-[#D3B070] transition-colors"
               >
-                Servicos
+                Serviços
               </Link>
               <Link
                 href="#faq"

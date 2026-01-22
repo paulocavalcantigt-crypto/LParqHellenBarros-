@@ -9,34 +9,34 @@ import {
 
 const faqs = [
   {
-    question: "Como funciona o processo de contratacao?",
+    question: "Como funciona o processo de contratação?",
     answer:
-      "O processo comeca com uma reuniao inicial para entender suas necessidades e expectativas. Apos a aprovacao da proposta, iniciamos o desenvolvimento do projeto com etapas bem definidas, sempre com sua participacao e aprovacao em cada fase.",
+      "O processo começa com uma reunião inicial para entender suas necessidades e expectativas. Após a aprovação da proposta, iniciamos o desenvolvimento do projeto com etapas bem definidas, sempre com sua participação e aprovação em cada fase.",
   },
   {
-    question: "Qual e o prazo medio para um projeto residencial?",
+    question: "Qual é o prazo médio para um projeto residencial?",
     answer:
-      "O prazo varia de acordo com a complexidade do projeto. Em media, um projeto residencial completo leva de 60 a 120 dias. Projetos de interiores podem ser concluidos em 30 a 60 dias. Sempre apresentamos um cronograma detalhado na proposta.",
+      "O prazo varia de acordo com a complexidade do projeto. Em média, um projeto residencial completo leva de 60 a 120 dias. Projetos de interiores podem ser concluídos em 30 a 60 dias. Sempre apresentamos um cronograma detalhado na proposta.",
   },
   {
-    question: "Voces acompanham a execucao da obra?",
+    question: "Vocês acompanham a execução da obra?",
     answer:
-      "Sim! Oferecemos servico de acompanhamento de obra para garantir que o projeto seja executado exatamente como planejado. Realizamos visitas periodicas e coordenamos com os profissionais envolvidos na construcao.",
+      "Sim! Oferecemos serviço de acompanhamento de obra para garantir que o projeto seja executado exatamente como planejado. Realizamos visitas periódicas e coordenamos com os profissionais envolvidos na construção.",
   },
   {
-    question: "Como e definido o valor do investimento?",
+    question: "Como é definido o valor do investimento?",
     answer:
-      "O valor e calculado com base na metragem do projeto, complexidade, escopo dos servicos e prazo de entrega. Apos a reuniao inicial, apresentamos uma proposta detalhada com todos os valores e condicoes de pagamento.",
+      "O valor é calculado com base na metragem do projeto, complexidade, escopo dos serviços e prazo de entrega. Após a reunião inicial, apresentamos uma proposta detalhada com todos os valores e condições de pagamento.",
   },
   {
-    question: "Atendem em quais regioes?",
+    question: "Atendem em quais regiões?",
     answer:
-      "Atendemos principalmente a regiao metropolitana de Sao Paulo, mas tambem realizamos projetos em outras cidades e estados. Para projetos fora de Sao Paulo, podemos fazer reunioes online e visitas programadas.",
+      "Atendemos principalmente a região metropolitana de São Paulo, mas também realizamos projetos em outras cidades e estados. Para projetos fora de São Paulo, podemos fazer reuniões online e visitas programadas.",
   },
   {
-    question: "Posso fazer alteracoes durante o projeto?",
+    question: "Posso fazer alterações durante o projeto?",
     answer:
-      "Sim, entendemos que ajustes podem ser necessarios. Incluimos rodadas de revisao em cada etapa do projeto. Alteracoes significativas fora do escopo inicial podem ser negociadas separadamente.",
+      "Sim, entendemos que ajustes podem ser necessários. Incluímos rodadas de revisão em cada etapa do projeto. Alterações significativas fora do escopo inicial podem ser negociadas separadamente.",
   },
 ]
 
@@ -50,10 +50,10 @@ export function FAQ() {
             FAQ
           </span>
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-normal text-[#501021] mb-4 text-balance italic">
-            Duvidas Frequentes
+            Dúvidas Frequentes
           </h2>
           <p className="text-[#7D1935] max-w-xl mx-auto">
-            Reunimos as principais perguntas que recebemos. Se nao encontrar o
+            Reunimos as principais perguntas que recebemos. Se não encontrar o
             que procura, entre em contato conosco.
           </p>
         </div>

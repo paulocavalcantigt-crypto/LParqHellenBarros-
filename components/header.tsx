@@ -18,10 +18,10 @@ export function Header() {
   }, [])
 
   const navLinks = [
-    { href: "#inicio", label: "Inicio" },
+    { href: "#inicio", label: "Início" },
     { href: "#manifesto", label: "Sobre" },
-    { href: "#portfolio", label: "Portfolio" },
-    { href: "#servicos", label: "Servicos" },
+    { href: "#portfolio", label: "Portfólio" },
+    { href: "#servicos", label: "Serviços" },
     { href: "#depoimentos", label: "Depoimentos" },
     { href: "#faq", label: "FAQ" },
   ]
@@ -45,7 +45,7 @@ export function Header() {
             <span className={`text-xs tracking-[0.2em] uppercase transition-colors ${
               isScrolled ? "text-[#7D1935]" : "text-white/70"
             }`}>
-              Arquitetura & Design
+              Arquitetura e Urbanismo
             </span>
           </Link>
 

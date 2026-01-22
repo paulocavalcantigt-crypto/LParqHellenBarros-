@@ -9,9 +9,9 @@ import Link from "next/link"
 const projects = [
   {
     id: 1,
-    title: "Residencia Vale Verde",
+    title: "Residência Vale Verde",
     category: "Arquitetura Residencial",
-    description: "Projeto contemporaneo que integra natureza e design em harmonia perfeita.",
+    description: "Projeto contemporâneo que integra natureza e design em harmonia perfeita.",
     image: "/images/portfolio-1.jpg",
   },
   {
@@ -23,16 +23,16 @@ const projects = [
   },
   {
     id: 3,
-    title: "Suite Master Alphaville",
+    title: "Suíte Master Alphaville",
     category: "Design de Interiores",
-    description: "Espaco de descanso que combina conforto e elegancia em cada detalhe.",
+    description: "Espaço de descanso que combina conforto e elegância em cada detalhe.",
     image: "/images/portfolio-3.jpg",
   },
   {
     id: 4,
     title: "Jardim Contemplativo",
     category: "Paisagismo",
-    description: "Integracao perfeita entre arquitetura e natureza para momentos de paz.",
+    description: "Integração perfeita entre arquitetura e natureza para momentos de paz.",
     image: "/images/portfolio-4.jpg",
   },
 ]
@@ -48,13 +48,13 @@ export function Portfolio() {
           {/* Header */}
           <div className="text-center mb-16">
             <span className="text-sm text-[#D3B070] tracking-[0.2em] uppercase mb-4 block">
-              Portfolio
+              Portfólio
             </span>
             <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-normal text-[#501021] mb-4 text-balance italic">
               Prova Visual de Autoridade
             </h2>
             <p className="text-[#7D1935] max-w-xl mx-auto">
-              Do traco ao toque final, cada projeto e uma historia bem contada.
+              Do traço ao toque final, cada projeto é uma história bem contada.
             </p>
           </div>
 

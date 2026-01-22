@@ -10,12 +10,12 @@ export function Contato() {
             Vamos Conversar
           </span>
           <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-normal text-white mb-6 text-balance italic">
-            Pronto para viver o projeto que voce merece?
+            Pronto para viver o projeto que você merece?
           </h2>
           <p className="text-white/80 mb-10 text-lg">
-            De o primeiro passo para transformar seu sonho em realidade. Nossa
-            equipe esta pronta para criar um projeto unico, feito especialmente
-            para voce.
+            Dê o primeiro passo para transformar seu sonho em realidade. Nossa
+            equipe está pronta para criar um projeto único, feito especialmente
+            para você.
           </p>
           <Button
             asChild
@@ -27,7 +27,7 @@ export function Contato() {
             </Link>
           </Button>
           <p className="text-white/60 text-sm mt-6">
-            Resposta garantida em ate 24 horas uteis.
+            Resposta garantida em até 24 horas úteis.
           </p>
         </div>
       </div>
